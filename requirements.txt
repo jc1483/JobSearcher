@@ -1,0 +1,7 @@
+flask
+selenium
+webdriver-manager
+cryptography
+PyPDF2
+python-docx
+pandas
